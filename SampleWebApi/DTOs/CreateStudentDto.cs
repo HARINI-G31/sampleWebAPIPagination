@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebApiPractice.DTOs
+namespace SampleWebApi.DTOs
 {
     public class CreateStudentDto
     {

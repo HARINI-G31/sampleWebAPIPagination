@@ -1,5 +1,5 @@
 using Scalar.AspNetCore;
-using WebApiPractice.Services;
+using SampleWebApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

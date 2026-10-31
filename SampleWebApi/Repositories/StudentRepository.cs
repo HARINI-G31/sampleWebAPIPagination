@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SampleWebApi.Repositories;
-using WebApiPractice.Data;
-using WebApiPractice.Models;
+using SampleWebApi.Data;
+using SampleWebApi.Models;
 
-namespace WebApiPractice.Repositories;
+namespace SampleWebApi.Repositories;
 
 public class StudentRepository : IStudentRepository
 {

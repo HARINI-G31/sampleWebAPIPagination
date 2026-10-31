@@ -1,6 +1,6 @@
-﻿using WebApiPractice.Models;
+﻿using SampleWebApi.Models;
 
-namespace WebApiPractice.Repositories;
+namespace SampleWebApi.Repositories;
 
 public interface IDepartmentRepository
 {

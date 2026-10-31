@@ -1,10 +1,10 @@
 ﻿using SampleWebApi.Repositories;
 using SampleWebApi.Services;
-using WebApiPractice.DTOs;
-using WebApiPractice.Models;
-using WebApiPractice.Repositories;
+using SampleWebApi.DTOs;
+using SampleWebApi.Models;
 
-namespace WebApiPractice.Services;
+
+namespace SampleWebApi.Services;
 
 public class DepartmentService : IDepartmentService
 {

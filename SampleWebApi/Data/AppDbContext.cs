@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApiPractice.Models;
+using SampleWebApi.Models;
 
-namespace WebApiPractice.Data;
+namespace SampleWebApi.Data;
 
 public class ApplicationDbContext : DbContext
 {

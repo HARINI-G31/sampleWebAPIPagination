@@ -1,4 +1,4 @@
-﻿namespace WebApiPractice.Models;
+﻿namespace SampleWebApi.Models;
 
 public class Student
 {

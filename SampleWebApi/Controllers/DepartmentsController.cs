@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApiPractice.DTOs;
-using WebApiPractice.Services;
+using SampleWebApi.DTOs;
+using SampleWebApi.Services;
 
-namespace WebApiPractice.Controllers;
+namespace SampleWebApi.Controllers;
 
 [ApiController]
 [Route("api/departments")]

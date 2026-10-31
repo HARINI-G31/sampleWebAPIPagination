@@ -1,6 +1,6 @@
-﻿using WebApiPractice.DTOs;
+﻿using SampleWebApi.DTOs;
 
-namespace WebApiPractice.Services;
+namespace SampleWebApi.Services;
 
 public interface IDepartmentService
 {

@@ -1,7 +1,7 @@
 ﻿using System.Xml.Linq;
-using WebApiPractice.Models;
+using SampleWebApi.Models;
 
-namespace WebApiPractice.Services;
+namespace SampleWebApi.Services;
 
 public class StudentService
 {
